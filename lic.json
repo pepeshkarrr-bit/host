@@ -1,0 +1,6 @@
+{
+  "keys": {
+    "TEST-1234-DEMO-KEY": { "days": 3, "hwid": "" },
+    "MINUTE-TEST-KEY-1":   { "minutes": 1, "hwid": "" }
+  }
+}
